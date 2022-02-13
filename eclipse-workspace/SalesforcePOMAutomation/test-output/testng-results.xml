@@ -1,0 +1,1538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="12" total="50" passed="33" failed="5" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-09T16:18:25 PST" name="Suite" finished-at="2022-02-09T16:34:39 PST" duration-ms="973958">
+    <groups>
+    </groups>
+    <test started-at="2022-02-09T16:18:25 PST" name="Test" finished-at="2022-02-09T16:34:39 PST" duration-ms="973958">
+      <class name="com.salesforce.tests.Home.UserMenuDropDownTest">
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03]" started-at="2022-02-09T16:18:55 PST" name="initialSetUp" finished-at="2022-02-09T16:18:57 PST" duration-ms="1713" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Home.UserMenuDropDownTest.DeveloperConsoleSetting()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="DeveloperConsoleSetting()[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03]" started-at="2022-02-09T16:18:57 PST" name="DeveloperConsoleSetting" finished-at="2022-02-09T16:19:04 PST" duration-ms="7450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeveloperConsoleSetting -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03]" started-at="2022-02-09T16:19:04 PST" name="tearDown" finished-at="2022-02-09T16:19:04 PST" duration-ms="116" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DeveloperConsoleSetting status=SUCCESS method=UserMenuDropDownTest.DeveloperConsoleSetting()[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03]" started-at="2022-02-09T16:19:04 PST" name="initialSetUp" finished-at="2022-02-09T16:19:07 PST" duration-ms="2635" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Home.UserMenuDropDownTest.Logout()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="Logout()[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03]" started-at="2022-02-09T16:19:07 PST" name="Logout" finished-at="2022-02-09T16:19:18 PST" duration-ms="10721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03]" started-at="2022-02-09T16:19:18 PST" name="tearDown" finished-at="2022-02-09T16:19:18 PST" duration-ms="111" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Logout status=SUCCESS method=UserMenuDropDownTest.Logout()[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03]" started-at="2022-02-09T16:19:18 PST" name="initialSetUp" finished-at="2022-02-09T16:19:20 PST" duration-ms="2309" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Home.UserMenuDropDownTest.MyProfileSetting()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="MyProfileSetting()[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03]" started-at="2022-02-09T16:19:20 PST" name="MyProfileSetting" finished-at="2022-02-09T16:19:27 PST" duration-ms="7103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyProfileSetting -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03]" started-at="2022-02-09T16:19:27 PST" name="tearDown" finished-at="2022-02-09T16:19:27 PST" duration-ms="120" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=MyProfileSetting status=SUCCESS method=UserMenuDropDownTest.MyProfileSetting()[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03]" started-at="2022-02-09T16:19:27 PST" name="initialSetUp" finished-at="2022-02-09T16:19:30 PST" duration-ms="2591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Home.UserMenuDropDownTest.MyProfileSettingSetting() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="MyProfileSettingSetting()[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03]" started-at="2022-02-09T16:19:30 PST" name="MyProfileSettingSetting" finished-at="2022-02-09T16:20:10 PST" duration-ms="40276" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (e90e29c3312d9be8986641051cdef059)] -> xpath: //h2[@id='contactInfoTitle']] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Praveenas-MacBook-Pro.local', ip: '2601:641:c101:8f10:3494:68bb:417e:4b98%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: /var/folders/6z/txc6fts57ns...}, goog:chromeOptions: {debuggerAddress: localhost:56383}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e90e29c3312d9be8986641051cdef059]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (e90e29c3312d9be8986641051cdef059)] -> xpath: //h2[@id='contactInfoTitle']] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Praveenas-MacBook-Pro.local', ip: '2601:641:c101:8f10:3494:68bb:417e:4b98%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: /var/folders/6z/txc6fts57ns...}, goog:chromeOptions: {debuggerAddress: localhost:56383}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e90e29c3312d9be8986641051cdef059
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at com.salesforce.Base.BasePage.waitUntilVisible(BasePage.java:118)
+at com.salesforce.Base.BasePage.dialogBoxCheck(BasePage.java:227)
+at com.salesforce.pages.UserMenuSettingsPages.EditProfilePage.editProfileDialogBoxCheck(EditProfilePage.java:33)
+at com.salesforce.tests.Home.UserMenuDropDownTest.profileLastNameChange(UserMenuDropDownTest.java:90)
+at com.salesforce.tests.Home.UserMenuDropDownTest.MyProfileSettingSetting(UserMenuDropDownTest.java:104)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyProfileSettingSetting -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03]" started-at="2022-02-09T16:20:10 PST" name="tearDown" finished-at="2022-02-09T16:20:11 PST" duration-ms="656" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=MyProfileSettingSetting status=FAILURE method=UserMenuDropDownTest.MyProfileSettingSetting()[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03]" started-at="2022-02-09T16:20:11 PST" name="initialSetUp" finished-at="2022-02-09T16:20:13 PST" duration-ms="2411" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Home.UserMenuDropDownTest.MySettingsSetting() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="MySettingsSetting()[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03]" started-at="2022-02-09T16:20:13 PST" name="MySettingsSetting" finished-at="2022-02-09T16:20:34 PST" duration-ms="20423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MySettingsSetting -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03]" started-at="2022-02-09T16:20:34 PST" name="tearDown" finished-at="2022-02-09T16:20:34 PST" duration-ms="113" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=MySettingsSetting status=SUCCESS method=UserMenuDropDownTest.MySettingsSetting()[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03]" started-at="2022-02-09T16:20:34 PST" name="initialSetUp" finished-at="2022-02-09T16:20:36 PST" duration-ms="2491" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Home.UserMenuDropDownTest.userMenuDropDownCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="userMenuDropDownCheck()[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03]" started-at="2022-02-09T16:20:36 PST" name="userMenuDropDownCheck" finished-at="2022-02-09T16:20:43 PST" duration-ms="6654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userMenuDropDownCheck -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03]" started-at="2022-02-09T16:20:43 PST" name="tearDown" finished-at="2022-02-09T16:20:43 PST" duration-ms="111" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=userMenuDropDownCheck status=SUCCESS method=UserMenuDropDownTest.userMenuDropDownCheck()[pri:0, instance:com.salesforce.tests.Home.UserMenuDropDownTest@96def03] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.salesforce.tests.Home.UserMenuDropDownTest -->
+      <class name="com.salesforce.tests.Opportunities.OpportunitiesTest">
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a]" started-at="2022-02-09T16:28:57 PST" name="initialSetUp" finished-at="2022-02-09T16:29:00 PST" duration-ms="2489" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Opportunities.OpportunitiesTest.checkOpportunityPipelineReport()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="checkOpportunityPipelineReport()[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a]" started-at="2022-02-09T16:29:00 PST" name="checkOpportunityPipelineReport" finished-at="2022-02-09T16:29:09 PST" duration-ms="9092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOpportunityPipelineReport -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a]" started-at="2022-02-09T16:29:09 PST" name="tearDown" finished-at="2022-02-09T16:29:09 PST" duration-ms="112" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkOpportunityPipelineReport status=SUCCESS method=OpportunitiesTest.checkOpportunityPipelineReport()[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a]" started-at="2022-02-09T16:29:09 PST" name="initialSetUp" finished-at="2022-02-09T16:29:12 PST" duration-ms="2715" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Opportunities.OpportunitiesTest.checkOpportunityStuckReport()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="checkOpportunityStuckReport()[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a]" started-at="2022-02-09T16:29:12 PST" name="checkOpportunityStuckReport" finished-at="2022-02-09T16:29:21 PST" duration-ms="9328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOpportunityStuckReport -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a]" started-at="2022-02-09T16:29:21 PST" name="tearDown" finished-at="2022-02-09T16:29:21 PST" duration-ms="111" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkOpportunityStuckReport status=SUCCESS method=OpportunitiesTest.checkOpportunityStuckReport()[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a]" started-at="2022-02-09T16:29:21 PST" name="initialSetUp" finished-at="2022-02-09T16:29:23 PST" duration-ms="2263" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Opportunities.OpportunitiesTest.checkQuaterlySummaryReport()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="checkQuaterlySummaryReport()[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a]" started-at="2022-02-09T16:29:23 PST" name="checkQuaterlySummaryReport" finished-at="2022-02-09T16:29:32 PST" duration-ms="8923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkQuaterlySummaryReport -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a]" started-at="2022-02-09T16:29:32 PST" name="tearDown" finished-at="2022-02-09T16:29:32 PST" duration-ms="108" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkQuaterlySummaryReport status=SUCCESS method=OpportunitiesTest.checkQuaterlySummaryReport()[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a]" started-at="2022-02-09T16:29:32 PST" name="initialSetUp" finished-at="2022-02-09T16:29:35 PST" duration-ms="2298" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Opportunities.OpportunitiesTest.createNewOpportunity()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="createNewOpportunity()[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a]" started-at="2022-02-09T16:29:35 PST" name="createNewOpportunity" finished-at="2022-02-09T16:29:47 PST" duration-ms="11981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewOpportunity -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a]" started-at="2022-02-09T16:29:47 PST" name="tearDown" finished-at="2022-02-09T16:29:47 PST" duration-ms="124" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createNewOpportunity status=SUCCESS method=OpportunitiesTest.createNewOpportunity()[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a]" started-at="2022-02-09T16:29:47 PST" name="initialSetUp" finished-at="2022-02-09T16:29:49 PST" duration-ms="2361" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Opportunities.OpportunitiesTest.verifyOpportunitiesMenu()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="verifyOpportunitiesMenu()[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a]" started-at="2022-02-09T16:29:49 PST" name="verifyOpportunitiesMenu" finished-at="2022-02-09T16:29:57 PST" duration-ms="7419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOpportunitiesMenu -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a]" started-at="2022-02-09T16:29:57 PST" name="tearDown" finished-at="2022-02-09T16:29:57 PST" duration-ms="109" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyOpportunitiesMenu status=SUCCESS method=OpportunitiesTest.verifyOpportunitiesMenu()[pri:0, instance:com.salesforce.tests.Opportunities.OpportunitiesTest@1ed1993a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.salesforce.tests.Opportunities.OpportunitiesTest -->
+      <class name="com.salesforce.tests.Contacts.ContactsTest">
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:30:42 PST" name="initialSetUp" finished-at="2022-02-09T16:30:45 PST" duration-ms="2339" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Contacts.ContactsTest.cancelNewView()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="cancelNewView()[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:30:45 PST" name="cancelNewView" finished-at="2022-02-09T16:30:52 PST" duration-ms="7555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancelNewView -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:30:52 PST" name="tearDown" finished-at="2022-02-09T16:30:52 PST" duration-ms="117" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cancelNewView status=SUCCESS method=ContactsTest.cancelNewView()[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:30:52 PST" name="initialSetUp" finished-at="2022-02-09T16:30:55 PST" duration-ms="2326" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Contacts.ContactsTest.checkMyContactsView()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="checkMyContactsView()[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:30:55 PST" name="checkMyContactsView" finished-at="2022-02-09T16:31:31 PST" duration-ms="36244" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@title='Go!']"}
+  (Session info: chrome=98.0.4758.80)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Praveenas-MacBook-Pro.local', ip: '2601:641:c101:8f10:3494:68bb:417e:4b98%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: /var/folders/6z/txc6fts57ns...}, goog:chromeOptions: {debuggerAddress: localhost:57307}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d0db4a0f5c26f0263378f951d7f54fcc
+*** Element info: {Using=xpath, value=//input[@title='Go!']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@title='Go!']"}
+  (Session info: chrome=98.0.4758.80)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Praveenas-MacBook-Pro.local', ip: '2601:641:c101:8f10:3494:68bb:417e:4b98%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: /var/folders/6z/txc6fts57ns...}, goog:chromeOptions: {debuggerAddress: localhost:57307}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d0db4a0f5c26f0263378f951d7f54fcc
+*** Element info: {Using=xpath, value=//input[@title='Go!']}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy16.isDisplayed(Unknown Source)
+at com.salesforce.tests.Contacts.ContactsPage.selectMyContacts(ContactsPage.java:62)
+at com.salesforce.tests.Contacts.ContactsTest.checkMyContactsView(ContactsTest.java:62)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMyContactsView -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:31:31 PST" name="tearDown" finished-at="2022-02-09T16:31:32 PST" duration-ms="667" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkMyContactsView status=FAILURE method=ContactsTest.checkMyContactsView()[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:31:32 PST" name="initialSetUp" finished-at="2022-02-09T16:31:34 PST" duration-ms="2396" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Contacts.ContactsTest.checkRecentlyCreatedContact()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="checkRecentlyCreatedContact()[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:31:34 PST" name="checkRecentlyCreatedContact" finished-at="2022-02-09T16:31:40 PST" duration-ms="5746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRecentlyCreatedContact -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:31:40 PST" name="tearDown" finished-at="2022-02-09T16:31:40 PST" duration-ms="115" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkRecentlyCreatedContact status=SUCCESS method=ContactsTest.checkRecentlyCreatedContact()[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:31:40 PST" name="initialSetUp" finished-at="2022-02-09T16:31:42 PST" duration-ms="2265" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Contacts.ContactsTest.checkSaveAndNewView() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="checkSaveAndNewView()[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:31:42 PST" name="checkSaveAndNewView" finished-at="2022-02-09T16:31:52 PST" duration-ms="9782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSaveAndNewView -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:31:52 PST" name="tearDown" finished-at="2022-02-09T16:31:52 PST" duration-ms="105" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkSaveAndNewView status=SUCCESS method=ContactsTest.checkSaveAndNewView()[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:31:52 PST" name="initialSetUp" finished-at="2022-02-09T16:31:54 PST" duration-ms="2298" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Contacts.ContactsTest.createNewContact()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="createNewContact()[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:31:54 PST" name="createNewContact" finished-at="2022-02-09T16:32:04 PST" duration-ms="9780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContact -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:32:04 PST" name="tearDown" finished-at="2022-02-09T16:32:04 PST" duration-ms="174" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createNewContact status=SUCCESS method=ContactsTest.createNewContact()[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:32:04 PST" name="initialSetUp" finished-at="2022-02-09T16:32:07 PST" duration-ms="2333" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Contacts.ContactsTest.createNewContactView()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="createNewContactView()[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:32:07 PST" name="createNewContactView" finished-at="2022-02-09T16:32:14 PST" duration-ms="7120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactView -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:32:14 PST" name="tearDown" finished-at="2022-02-09T16:32:14 PST" duration-ms="161" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createNewContactView status=SUCCESS method=ContactsTest.createNewContactView()[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:32:14 PST" name="initialSetUp" finished-at="2022-02-09T16:32:16 PST" duration-ms="2293" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Contacts.ContactsTest.newContactViewError()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="newContactViewError()[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:32:16 PST" name="newContactViewError" finished-at="2022-02-09T16:32:23 PST" duration-ms="7189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newContactViewError -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:32:23 PST" name="tearDown" finished-at="2022-02-09T16:32:23 PST" duration-ms="111" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=newContactViewError status=SUCCESS method=ContactsTest.newContactViewError()[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:32:23 PST" name="initialSetUp" finished-at="2022-02-09T16:32:26 PST" duration-ms="2345" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Contacts.ContactsTest.viewContact()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="viewContact()[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:32:26 PST" name="viewContact" finished-at="2022-02-09T16:32:33 PST" duration-ms="7122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewContact -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805]" started-at="2022-02-09T16:32:33 PST" name="tearDown" finished-at="2022-02-09T16:32:33 PST" duration-ms="119" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=viewContact status=SUCCESS method=ContactsTest.viewContact()[pri:0, instance:com.salesforce.tests.Contacts.ContactsTest@794cb805] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.salesforce.tests.Contacts.ContactsTest -->
+      <class name="com.salesforce.tests.Login.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c]" started-at="2022-02-09T16:18:25 PST" name="setUp" finished-at="2022-02-09T16:18:25 PST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c]" started-at="2022-02-09T16:18:25 PST" name="initialSetUp" finished-at="2022-02-09T16:18:28 PST" duration-ms="3241" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Login.LoginTest.CheckRememberMe()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="CheckRememberMe()[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c]" started-at="2022-02-09T16:18:28 PST" name="CheckRememberMe" finished-at="2022-02-09T16:18:36 PST" duration-ms="7368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckRememberMe -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c]" started-at="2022-02-09T16:18:36 PST" name="tearDown" finished-at="2022-02-09T16:18:36 PST" duration-ms="118" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CheckRememberMe status=SUCCESS method=LoginTest.CheckRememberMe()[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c]" started-at="2022-02-09T16:18:36 PST" name="initialSetUp" finished-at="2022-02-09T16:18:38 PST" duration-ms="2284" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Login.LoginTest.ForgotPassword()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="ForgotPassword()[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c]" started-at="2022-02-09T16:18:38 PST" name="ForgotPassword" finished-at="2022-02-09T16:18:39 PST" duration-ms="1096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgotPassword -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c]" started-at="2022-02-09T16:18:39 PST" name="tearDown" finished-at="2022-02-09T16:18:39 PST" duration-ms="91" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ForgotPassword status=SUCCESS method=LoginTest.ForgotPassword()[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c]" started-at="2022-02-09T16:18:39 PST" name="initialSetUp" finished-at="2022-02-09T16:18:41 PST" duration-ms="1926" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Login.LoginTest.LoginErrorMessage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="LoginErrorMessage()[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c]" started-at="2022-02-09T16:18:41 PST" name="LoginErrorMessage" finished-at="2022-02-09T16:18:44 PST" duration-ms="2330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginErrorMessage -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c]" started-at="2022-02-09T16:18:44 PST" name="tearDown" finished-at="2022-02-09T16:18:44 PST" duration-ms="156" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginErrorMessage status=SUCCESS method=LoginTest.LoginErrorMessage()[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c]" started-at="2022-02-09T16:18:44 PST" name="initialSetUp" finished-at="2022-02-09T16:18:46 PST" duration-ms="1807" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Login.LoginTest.LoginSFDC()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="LoginSFDC()[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c]" started-at="2022-02-09T16:18:46 PST" name="LoginSFDC" finished-at="2022-02-09T16:18:51 PST" duration-ms="5833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginSFDC -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c]" started-at="2022-02-09T16:18:51 PST" name="tearDown" finished-at="2022-02-09T16:18:51 PST" duration-ms="107" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginSFDC status=SUCCESS method=LoginTest.LoginSFDC()[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c]" started-at="2022-02-09T16:18:51 PST" name="initialSetUp" finished-at="2022-02-09T16:18:54 PST" duration-ms="2346" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Login.LoginTest.WrongUserNamePwd()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="WrongUserNamePwd()[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c]" started-at="2022-02-09T16:18:54 PST" name="WrongUserNamePwd" finished-at="2022-02-09T16:18:55 PST" duration-ms="1233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WrongUserNamePwd -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c]" started-at="2022-02-09T16:18:55 PST" name="tearDown" finished-at="2022-02-09T16:18:55 PST" duration-ms="102" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=WrongUserNamePwd status=SUCCESS method=LoginTest.WrongUserNamePwd()[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="endUp()[pri:0, instance:com.salesforce.tests.Login.LoginTest@6d2a209c]" started-at="2022-02-09T16:34:39 PST" name="endUp" finished-at="2022-02-09T16:34:39 PST" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endUp -->
+      </class> <!-- com.salesforce.tests.Login.LoginTest -->
+      <class name="com.salesforce.tests.Accounts.AccountsTest">
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20]" started-at="2022-02-09T16:20:43 PST" name="initialSetUp" finished-at="2022-02-09T16:20:46 PST" duration-ms="2564" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Accounts.AccountsTest.accountsMerge() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="accountsMerge()[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20]" started-at="2022-02-09T16:20:46 PST" name="accountsMerge" finished-at="2022-02-09T16:20:52 PST" duration-ms="6409" status="FAIL">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[disconnected: Unable to receive message from renderer
+  (Session info: chrome=98.0.4758.80)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Praveenas-MacBook-Pro.local', ip: '2601:641:c101:8f10:3494:68bb:417e:4b98%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: /var/folders/6z/txc6fts57ns...}, goog:chromeOptions: {debuggerAddress: localhost:56536}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0c5830f54b75c73445893517b2c60843
+*** Element info: {Using=class name, value=dialogClose}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: disconnected: Unable to receive message from renderer
+  (Session info: chrome=98.0.4758.80)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Praveenas-MacBook-Pro.local', ip: '2601:641:c101:8f10:3494:68bb:417e:4b98%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: /var/folders/6z/txc6fts57ns...}, goog:chromeOptions: {debuggerAddress: localhost:56536}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0c5830f54b75c73445893517b2c60843
+*** Element info: {Using=class name, value=dialogClose}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:412)
+at org.openqa.selenium.By$ByClassName.findElement(By.java:389)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy16.isDisplayed(Unknown Source)
+at com.salesforce.Base.BasePage.clickElement(BasePage.java:257)
+at com.salesforce.pages.homepages.HomePage.closeDialogBox(HomePage.java:54)
+at com.salesforce.tests.Login.LoginTest.LoginSFDC(LoginTest.java:32)
+at com.salesforce.tests.Accounts.AccountsTest.accountsMerge(AccountsTest.java:92)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountsMerge -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20]" started-at="2022-02-09T16:20:52 PST" name="tearDown" finished-at="2022-02-09T16:28:03 PST" duration-ms="431200" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=accountsMerge status=FAILURE method=AccountsTest.accountsMerge()[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20]" started-at="2022-02-09T16:28:03 PST" name="initialSetUp" finished-at="2022-02-09T16:28:06 PST" duration-ms="2644" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Accounts.AccountsTest.createAccount() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="createAccount()[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20]" started-at="2022-02-09T16:28:06 PST" name="createAccount" finished-at="2022-02-09T16:28:16 PST" duration-ms="10141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20]" started-at="2022-02-09T16:28:16 PST" name="tearDown" finished-at="2022-02-09T16:28:16 PST" duration-ms="122" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createAccount status=SUCCESS method=AccountsTest.createAccount()[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20]" started-at="2022-02-09T16:28:16 PST" name="initialSetUp" finished-at="2022-02-09T16:28:19 PST" duration-ms="2732" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Accounts.AccountsTest.createAccountReport() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="createAccountReport()[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20]" started-at="2022-02-09T16:28:19 PST" name="createAccountReport" finished-at="2022-02-09T16:28:32 PST" duration-ms="13108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountReport -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20]" started-at="2022-02-09T16:28:32 PST" name="tearDown" finished-at="2022-02-09T16:28:32 PST" duration-ms="120" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createAccountReport status=SUCCESS method=AccountsTest.createAccountReport()[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20]" started-at="2022-02-09T16:28:32 PST" name="initialSetUp" finished-at="2022-02-09T16:28:35 PST" duration-ms="2522" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Accounts.AccountsTest.createView() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="createView()[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20]" started-at="2022-02-09T16:28:35 PST" name="createView" finished-at="2022-02-09T16:28:44 PST" duration-ms="9227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createView -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20]" started-at="2022-02-09T16:28:44 PST" name="tearDown" finished-at="2022-02-09T16:28:44 PST" duration-ms="110" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createView status=SUCCESS method=AccountsTest.createView()[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20]" started-at="2022-02-09T16:28:44 PST" name="initialSetUp" finished-at="2022-02-09T16:28:47 PST" duration-ms="2459" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Accounts.AccountsTest.editView() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="editView()[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20]" started-at="2022-02-09T16:28:47 PST" name="editView" finished-at="2022-02-09T16:28:57 PST" duration-ms="10587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editView -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20]" started-at="2022-02-09T16:28:57 PST" name="tearDown" finished-at="2022-02-09T16:28:57 PST" duration-ms="128" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=editView status=SUCCESS method=AccountsTest.editView()[pri:0, instance:com.salesforce.tests.Accounts.AccountsTest@5ccddd20] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.salesforce.tests.Accounts.AccountsTest -->
+      <class name="com.salesforce.tests.Leads.LeadsTest">
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Leads.LeadsTest@1f3f4916]" started-at="2022-02-09T16:29:57 PST" name="initialSetUp" finished-at="2022-02-09T16:29:59 PST" duration-ms="2341" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Leads.LeadsTest.checkDefaultView()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="checkDefaultView()[pri:0, instance:com.salesforce.tests.Leads.LeadsTest@1f3f4916]" started-at="2022-02-09T16:29:59 PST" name="checkDefaultView" finished-at="2022-02-09T16:30:13 PST" duration-ms="13630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDefaultView -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Leads.LeadsTest@1f3f4916]" started-at="2022-02-09T16:30:13 PST" name="tearDown" finished-at="2022-02-09T16:30:13 PST" duration-ms="127" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkDefaultView status=SUCCESS method=LeadsTest.checkDefaultView()[pri:0, instance:com.salesforce.tests.Leads.LeadsTest@1f3f4916] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Leads.LeadsTest@1f3f4916]" started-at="2022-02-09T16:30:13 PST" name="initialSetUp" finished-at="2022-02-09T16:30:15 PST" duration-ms="2523" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Leads.LeadsTest.checkLeadsMenu()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="checkLeadsMenu()[pri:0, instance:com.salesforce.tests.Leads.LeadsTest@1f3f4916]" started-at="2022-02-09T16:30:15 PST" name="checkLeadsMenu" finished-at="2022-02-09T16:30:21 PST" duration-ms="6127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLeadsMenu -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Leads.LeadsTest@1f3f4916]" started-at="2022-02-09T16:30:21 PST" name="tearDown" finished-at="2022-02-09T16:30:22 PST" duration-ms="112" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkLeadsMenu status=SUCCESS method=LeadsTest.checkLeadsMenu()[pri:0, instance:com.salesforce.tests.Leads.LeadsTest@1f3f4916] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Leads.LeadsTest@1f3f4916]" started-at="2022-02-09T16:30:22 PST" name="initialSetUp" finished-at="2022-02-09T16:30:24 PST" duration-ms="2377" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Leads.LeadsTest.checkNewLead()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="checkNewLead()[pri:0, instance:com.salesforce.tests.Leads.LeadsTest@1f3f4916]" started-at="2022-02-09T16:30:24 PST" name="checkNewLead" finished-at="2022-02-09T16:30:32 PST" duration-ms="8090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNewLead -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Leads.LeadsTest@1f3f4916]" started-at="2022-02-09T16:30:32 PST" name="tearDown" finished-at="2022-02-09T16:30:32 PST" duration-ms="113" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkNewLead status=SUCCESS method=LeadsTest.checkNewLead()[pri:0, instance:com.salesforce.tests.Leads.LeadsTest@1f3f4916] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.Leads.LeadsTest@1f3f4916]" started-at="2022-02-09T16:30:32 PST" name="initialSetUp" finished-at="2022-02-09T16:30:35 PST" duration-ms="2371" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.Leads.LeadsTest.verifyLeadsPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="verifyLeadsPage()[pri:0, instance:com.salesforce.tests.Leads.LeadsTest@1f3f4916]" started-at="2022-02-09T16:30:35 PST" name="verifyLeadsPage" finished-at="2022-02-09T16:30:42 PST" duration-ms="7583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLeadsPage -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.Leads.LeadsTest@1f3f4916]" started-at="2022-02-09T16:30:42 PST" name="tearDown" finished-at="2022-02-09T16:30:42 PST" duration-ms="162" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLeadsPage status=SUCCESS method=LeadsTest.verifyLeadsPage()[pri:0, instance:com.salesforce.tests.Leads.LeadsTest@1f3f4916] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.salesforce.tests.Leads.LeadsTest -->
+      <class name="com.salesforce.tests.RandomScenarios.RandomScenarioTest">
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9]" started-at="2022-02-09T16:32:33 PST" name="initialSetUp" finished-at="2022-02-09T16:32:35 PST" duration-ms="2293" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.RandomScenarios.RandomScenarioTest.blockEventInCalendar() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="blockEventInCalendar()[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9]" started-at="2022-02-09T16:32:35 PST" name="blockEventInCalendar" finished-at="2022-02-09T16:33:14 PST" duration-ms="39192" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//td[contains(text(),'8:00 PM')]"}
+  (Session info: chrome=98.0.4758.80)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Praveenas-MacBook-Pro.local', ip: '2601:641:c101:8f10:3494:68bb:417e:4b98%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: /var/folders/6z/txc6fts57ns...}, goog:chromeOptions: {debuggerAddress: localhost:57647}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 13513c41c09debe05af1ef3a04269d81
+*** Element info: {Using=xpath, value=//td[contains(text(),'8:00 PM')]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//td[contains(text(),'8:00 PM')]"}
+  (Session info: chrome=98.0.4758.80)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Praveenas-MacBook-Pro.local', ip: '2601:641:c101:8f10:3494:68bb:417e:4b98%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: /var/folders/6z/txc6fts57ns...}, goog:chromeOptions: {debuggerAddress: localhost:57647}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 13513c41c09debe05af1ef3a04269d81
+*** Element info: {Using=xpath, value=//td[contains(text(),'8:00 PM')]}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy16.isDisplayed(Unknown Source)
+at com.salesforce.pages.calendarpages.CalendarPage.validateOtherEventSchedule(CalendarPage.java:87)
+at com.salesforce.tests.RandomScenarios.RandomScenarioTest.blockEventInCalendar(RandomScenarioTest.java:103)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blockEventInCalendar -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9]" started-at="2022-02-09T16:33:14 PST" name="tearDown" finished-at="2022-02-09T16:33:15 PST" duration-ms="797" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=blockEventInCalendar status=FAILURE method=RandomScenarioTest.blockEventInCalendar()[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9]" started-at="2022-02-09T16:33:15 PST" name="initialSetUp" finished-at="2022-02-09T16:33:18 PST" duration-ms="2426" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.RandomScenarios.RandomScenarioTest.checkCalendarWeeklyRecurrence()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="checkCalendarWeeklyRecurrence()[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9]" started-at="2022-02-09T16:33:18 PST" name="checkCalendarWeeklyRecurrence" finished-at="2022-02-09T16:33:28 PST" duration-ms="10550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCalendarWeeklyRecurrence -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9]" started-at="2022-02-09T16:33:28 PST" name="tearDown" finished-at="2022-02-09T16:33:28 PST" duration-ms="125" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkCalendarWeeklyRecurrence status=SUCCESS method=RandomScenarioTest.checkCalendarWeeklyRecurrence()[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9]" started-at="2022-02-09T16:33:28 PST" name="initialSetUp" finished-at="2022-02-09T16:33:31 PST" duration-ms="2302" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.RandomScenarios.RandomScenarioTest.editedUserName() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="editedUserName()[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9]" started-at="2022-02-09T16:33:31 PST" name="editedUserName" finished-at="2022-02-09T16:34:08 PST" duration-ms="37672" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (42e621a894db40bef65e14ac4c4d9618)] -> xpath: //h2[@id='contactInfoTitle']] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Praveenas-MacBook-Pro.local', ip: '2601:641:c101:8f10:3494:68bb:417e:4b98%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: /var/folders/6z/txc6fts57ns...}, goog:chromeOptions: {debuggerAddress: localhost:57753}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 42e621a894db40bef65e14ac4c4d9618]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (42e621a894db40bef65e14ac4c4d9618)] -> xpath: //h2[@id='contactInfoTitle']] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Praveenas-MacBook-Pro.local', ip: '2601:641:c101:8f10:3494:68bb:417e:4b98%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: /var/folders/6z/txc6fts57ns...}, goog:chromeOptions: {debuggerAddress: localhost:57753}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 42e621a894db40bef65e14ac4c4d9618
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at com.salesforce.Base.BasePage.waitUntilVisible(BasePage.java:118)
+at com.salesforce.Base.BasePage.dialogBoxCheck(BasePage.java:227)
+at com.salesforce.pages.UserMenuSettingsPages.EditProfilePage.editProfileDialogBoxCheck(EditProfilePage.java:33)
+at com.salesforce.tests.UserMenuSettings.MyProfileTest.profileLastNameChange(MyProfileTest.java:20)
+at com.salesforce.tests.RandomScenarios.RandomScenarioTest.editedUserName(RandomScenarioTest.java:38)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editedUserName -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9]" started-at="2022-02-09T16:34:08 PST" name="tearDown" finished-at="2022-02-09T16:34:09 PST" duration-ms="662" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=editedUserName status=FAILURE method=RandomScenarioTest.editedUserName()[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9]" started-at="2022-02-09T16:34:09 PST" name="initialSetUp" finished-at="2022-02-09T16:34:11 PST" duration-ms="2383" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.RandomScenarios.RandomScenarioTest.verifyFirstAndLastName()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="verifyFirstAndLastName()[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9]" started-at="2022-02-09T16:34:11 PST" name="verifyFirstAndLastName" finished-at="2022-02-09T16:34:19 PST" duration-ms="7492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFirstAndLastName -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9]" started-at="2022-02-09T16:34:19 PST" name="tearDown" finished-at="2022-02-09T16:34:19 PST" duration-ms="122" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyFirstAndLastName status=SUCCESS method=RandomScenarioTest.verifyFirstAndLastName()[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9]" started-at="2022-02-09T16:34:19 PST" name="initialSetUp" finished-at="2022-02-09T16:34:21 PST" duration-ms="2286" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.salesforce.tests.RandomScenarios.RandomScenarioTest.verifyTabCustomization()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="verifyTabCustomization()[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9]" started-at="2022-02-09T16:34:21 PST" name="verifyTabCustomization" finished-at="2022-02-09T16:34:38 PST" duration-ms="17105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTabCustomization -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9]" started-at="2022-02-09T16:34:38 PST" name="tearDown" finished-at="2022-02-09T16:34:39 PST" duration-ms="172" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTabCustomization status=SUCCESS method=RandomScenarioTest.verifyTabCustomization()[pri:0, instance:com.salesforce.tests.RandomScenarios.RandomScenarioTest@59d016c9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.salesforce.tests.RandomScenarios.RandomScenarioTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
